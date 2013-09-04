@@ -1,8 +1,11 @@
-<!---
+<?php
+/************************************
 Tumblr-uploader &copy;  lolimilk.com
  index.php  Created on 2013.08.06
 Weibo: http://weibo.com/614520789
--->
+************************************/
+session_start();
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
